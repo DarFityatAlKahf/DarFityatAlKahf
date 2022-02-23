@@ -6,9 +6,8 @@
 </p></h1>
 
 ## <p align="center">WE ARE: [@DarFityatAlKahf](https://t.me/DarAlFityah) 
-- We're interested in somethings.
-- We're currently learning manythings.
-- How to reach us: [@DarFityatAlKahfBot](https://t.me/DarAlFityahBot)
+
+- How to reach us: [@DarFityatAlKahfBot](https://t.me/DarAlFityahBot) <p align="right">You are Welcome.
 
 
 
