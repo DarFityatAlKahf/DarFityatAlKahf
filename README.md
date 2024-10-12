@@ -9,8 +9,8 @@
 <p align="center">We are: <a href="https://t.me/DarAlFityah">@DarFityatAlKahf</a></p>
 
 ### How to reach us:
-- [Contact us via Telegram Bot](https://t.me/DarAlFityahAlKahfBot)
-- [Email us](mailto:YouthOfCaveDFK@gmail.com)
+- Contact us: [via Telegram Bot](https://t.me/DarAlFityahAlKahfBot)
+- Email us: [YouthOfCaveDFK](mailto:YouthOfCaveDFK@gmail.com)
 
 <p align="right">You are always welcome!</p>
 
