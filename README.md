@@ -10,7 +10,7 @@
 
 ### How to reach us:
 - Contact us: [via Our Telegram Bot](https://t.me/DarAlFityahAlKahfBot)
-- Email us: [via Our Mail](mailto:YouthOfCaveDFK@gmail.com)
+- Email us: [YouthOfCaveDFK@gmail.com](mailto:YouthOfCaveDFK@gmail.com)
 
 <p align="right">You are always welcome!</p>
 
